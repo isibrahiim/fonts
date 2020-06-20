@@ -1,0 +1,48 @@
+body { 
+	 
+		background-color: grey;
+	  	font-family: "mywebfont", sans-serif;
+	  
+
+}
+
+.box {
+	position: relative;
+  background-color: #ffffff;
+  color: black;
+  width: 700px;
+  margin: 120px auto 0;
+  padding: 180px 100px 10px;
+}
+
+
+.top{
+	position: absolute;
+  background-color: #181818;
+  color: #fefefe;
+  width: 60%;
+  height: 100px;
+  text-align: left;
+  padding-left: 60px;
+  padding-top: 40px;
+}
+
+.top2{
+	position: absolute;
+  background-color: #f8bd2c;
+  width: 55%;
+  padding: 15px 0 15px 25px;
+}
+
+.hline {
+  height: 5px;
+  width: 100%;
+  border-bottom: 2px solid #303030;
+  background-color: white;
+}
+
+.vline{
+	position: absolute;
+  border-left: 2px solid #151718;
+ height: 400px; 
+}
